@@ -1,11 +1,5 @@
-import Alert from "./components/Alert";
-
 function App() {
-  return (
-    <div>
-      <Alert />
-    </div>
-  );
+  return <div></div>;
 }
 
 export default App;
